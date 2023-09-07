@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  SpeechRecogniationDemo
 //
-//  Created by Dharmendra Rajpurohit on 30/03/18.
-//  Copyright © 2018 appirio. All rights reserved.
 //
 
 import UIKit
